@@ -8,9 +8,9 @@ but an approximate count within a certain error bound is sufficient.
 This implementation includes visualizations to compare the estimated counts with the theoretical counts and 
 to analyze the relative error.
 
-![Plot of the trajectory of estimates for a stream of size 10000 built from 4000 unique elements and with a capacity of 500](docs/trajectories_len10000_unique4000_capacity500.png)
+![Plot of the trajectory of estimates](./docs/trajectories_len10000_unique4000_capacity500.png)
 
-![Plot of the trajectory of the relative error of estimates for a stream of size 10000 built from 4000 unique elements and with a capacity of 500](docs/trajectories_error_len10000_unique4000_capacity500.png)
+![Plot of the trajectory of the relative error of estimates](./docs/trajectories_error_len10000_unique4000_capacity500.png)
 
 ## References
 This project stands on the following articles:
